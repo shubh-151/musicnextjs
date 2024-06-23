@@ -14,4 +14,6 @@ pnpm dev
 bun dev
 ```
 ## By clicking here you can see this project on vercel
-https://musicnextjs-rose.vercel.app/
+
+
+https://musicnextjs-4r6v.vercel.app/
